@@ -669,6 +669,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | [Cybersecurity](https://jobs.saic.com/jobs/12554012-cyber-security-intern), Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
 | [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
 | [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
+| [Rakuten](https://www.linkedin.com/jobs/view/3608106325/?alternateChannel=search&refId=Q0cBVmQW6tgIgVSEiNKN8A%3D%3D&trackingId=e5EKp3XP83r2DqyStSXEJQ%3D%3D) |Singapore, Singapore | Software Engineer Intern (UI/UX) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
